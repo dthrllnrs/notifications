@@ -23,7 +23,7 @@ This app provides a robust notification system with:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dthrllnrs/notifications.git
    cd notifications
    ```
 
